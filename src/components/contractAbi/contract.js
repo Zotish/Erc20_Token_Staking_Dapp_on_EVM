@@ -1,0 +1,1 @@
+export const stakingContract="0xd0d754A71c359F689955FC9c58FbCe3f9682F729";

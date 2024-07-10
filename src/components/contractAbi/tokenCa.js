@@ -1,0 +1,1 @@
+export const tokenContract= "0x992044E352627C8b2C53A50cb23E5C7576Af7D45";
