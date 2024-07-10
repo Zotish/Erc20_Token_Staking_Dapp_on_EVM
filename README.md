@@ -1,8 +1,8 @@
-Before starting this app make sure you did not forget to deploy your smart contract on EVM and also save abi or contract to change info of  Contract folder insider file 
+Before starting this app make sure you did not forget to deploy your smart contract on EVM and also save abi or contract to change the info of  the Contract folder insider file 
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created  with [Create React App](https://github.com/facebook/create-react-app)
 
 ## Available Scripts
 
